@@ -1,5 +1,4 @@
 /*
-Team Number: ?
 Factory Plus - A Smart Conveyor Belt System
 FactoryPlus, the smart conveyor belt system enhances safety and productivity through an Arduino based
 setup designed for factory environments. One of the Arduinos handles safety monitoring using an ultrasonic
