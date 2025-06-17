@@ -22,6 +22,7 @@ FactoryPlus leverages:
 - Seamless **I2C communication**
 
 to provide:
+
 ✅ **Real-time monitoring**  
 ✅ **Hazard detection**  
 ✅ **Intelligent conveyor operations**
